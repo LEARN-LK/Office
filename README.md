@@ -1,3 +1,6 @@
+<h1>How to send scanned documents to your email.</h1>
+
+
 - First - Place your document to scan in to the Printer.
 
 - Second - Click, "Scan and Send" on the printer screen.

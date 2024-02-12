@@ -1,4 +1,4 @@
-<h1>How to send scanned documents to your email.</h1>
+<h1>How to use Scan to Email.</h1>
 
 
 - First - Place your document to scan in to the Printer.
